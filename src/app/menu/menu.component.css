@@ -5,3 +5,8 @@ font-size: 16pt;
 a{
   cursor: pointer;
 }
+
+#menu{
+  background-color: #ee1877;
+}
+

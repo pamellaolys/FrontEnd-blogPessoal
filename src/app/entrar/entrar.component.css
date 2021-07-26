@@ -1,0 +1,13 @@
+#img-bg{
+background-image: url(../../assets/img/luzes-notebook.jfif);
+
+min-height: 695px;
+
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+#h1{
+  color: #AD2691;
+}
