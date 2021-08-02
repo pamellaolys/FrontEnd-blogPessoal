@@ -1,8 +1,16 @@
 .fs-54{
   font-size: 54pt;
+  color: #ad2691;
 }
-
 
 .fs-18{
   font-size: 18pt;
+}
+
+.txt-cor{
+  color: #474a51 !important;
+}
+
+.txt-cor:hover{
+  color: #f15bd1 !important;
 }
